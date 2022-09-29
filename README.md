@@ -4,7 +4,7 @@
 
 Edit the template with your information
 
-In the [template](./github_filters.xml), replace the following string:
+In the [github template](./github_filters.xml), replace the following string:
 
     @<YOUR_GITHUB_USERNAME_HERE> (in my case that would be @yoannjauffroy)
 
